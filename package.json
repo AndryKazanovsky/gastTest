@@ -1,0 +1,25 @@
+{
+  "name": "test-task",
+  "version": "0.0.0",
+  "description": "Test task for ZEO Alliance",
+  "author": "Andrew Kazanovsky",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "css-mqpacker": "^4.0.1",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-watch": "^4.3.11",
+    "postcss": "^5.0.5",
+    "postcss-discard-comments": "^2.0.4",
+    "precss": "^1.4.0"
+  },
+  "dependencies": {
+    "scrollmagic": "^2.0.7"
+  }
+}
